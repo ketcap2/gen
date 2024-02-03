@@ -1,0 +1,27 @@
+{
+  "token": "",
+  "username": "",
+  "password": "",
+  "port": "3000",
+  "clientId": "1175488832590860308",
+  "guildId": "1175819286074363978",
+  "globalDeploy": false,
+  "status": "Made By KetcapCode 🔥",
+  "website": "https://discord.gg/x9PV8Z7W3P",
+  "banner": "https://media.discordapp.net/attachments/960440723369517106/996423763522506782/rainbow-border.gif",
+  "footer": "Made By KetcapCode 🔥",
+  "genChannel": "1203263412637802517",
+  "premiumChannel": "1203267073455820830",
+  "genCooldown": "60",
+  "premiumCooldown": "30",
+  "color": {
+    "green": "0x57F287",
+    "yellow": "0xFEE75C",
+    "red": "0xED4245",
+    "default": "0x5865F2"
+  },
+  "command": {
+    "notfound_message": true,
+    "error_message": true
+  }
+}
